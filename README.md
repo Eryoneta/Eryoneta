@@ -1,9 +1,9 @@
 ### Yo there!
 
 <a href="https://github.com/Eryoneta">
-  <div align="center">
+  <div align="left">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eryoneta&show_icons=true&include_all_commits=true&count_private=true&title_color=9E50FF&icon_color=9E50FF&border_color=ECDBFE&text_color=404040&bg_color=60,FFFFFF,F2E8FC"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eryoneta&layout=compact&langs_count=6&title_color=9E50FF&border_color=ECDBFE&text_color=404040&bg_color=60,FFFFFF,F2E8FC"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eryoneta&langs_count=6&title_color=9E50FF&border_color=ECDBFE&text_color=404040&bg_color=60,FFFFFF,F2E8FC"/>
   </div>
 </a>
 <div style="display: inline_block"><br>
