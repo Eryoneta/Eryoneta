@@ -1,7 +1,7 @@
 <!--Título-->
 <div align="left">
-    <img src="Profile.jpg" width="20%" alt="YoProfile" />
-    <img src="titulo.svg" width="75%" alt="YoTitle" />
+    <img src="Profile.jpg" width="15%" alt="YoProfile" />
+    <img src="titulo.svg" width="80%" alt="YoTitle" />
 </div>
 
 <!--Introdução-->
@@ -15,7 +15,7 @@
 <div align="center">
     <a href="https://github.com/Eryoneta">
         <img width="55%" src="https://github-readme-stats.vercel.app/api?username=Eryoneta&show_icons=true&include_all_commits=true&count_private=true&title_color=9E50FF&icon_color=9E50FF&border_color=ECDBFE&text_color=404040&bg_color=60,FFFFFF,F2E8FC" />
-        <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eryoneta&layout=compact&langs_count=6&title_color=9E50FF&border_color=ECDBFE&text_color=404040&bg_color=60,FFFFFF,F2E8FC" />
+        <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eryoneta&layout=compact&langs_count=8&title_color=9E50FF&border_color=ECDBFE&text_color=404040&bg_color=60,FFFFFF,F2E8FC" />
     </a>
 </div><br/>
 
