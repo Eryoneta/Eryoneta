@@ -1,13 +1,19 @@
-<svg fill="none" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 110" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 .titulo{
-                    color:#9E50FF;
-                    font-family:Consolas;
+                    color: #9E50FF;
+                    font-family: Consolas;
+                }
+                .subtitulo{
+                    color: #808080;
+                    font-family: Consolas;
+                    margin-top: -20px
                 }
             </style>
             <h1 class="titulo">Erick Yori Yoneta Matos</h1>
+            <h2 class="subtitulo">Full Stack Developer</h2>
         </div>
     </foreignObject>
 </svg>
