@@ -4,9 +4,7 @@
             <style>
                 .titulo{
                     color:#9E50FF;
-                }
-                .titulo:hover{
-                    color:#ECDBFE;
+                    font-family:Consolas;
                 }
             </style>
             <h1 class="titulo">Erick Yori Yoneta Matos</h1>
