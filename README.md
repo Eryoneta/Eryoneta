@@ -38,6 +38,7 @@
 <!--Auxiliares-->
 <div style="display: inline_block">
   <img alt="Git" height="25" src="https://img.shields.io/badge/Version%20Control-GitHub-8A30A6?style=flat&logo=github&logoColor=white">
+  <img alt="NPM" height="15" src="https://img.shields.io/badge/Package Manager-NPM-CB2D2C?style=flat&logo=npm&logoColor=white">
 </div><br/>
 
 <h3>Code</h4>
@@ -46,10 +47,6 @@
   <img alt="Java" height="35" src="https://img.shields.io/badge/Code-Java-EF921C?style=flat&logo=java&logoColor=white">
   <img alt="C++" height="20" src="https://img.shields.io/badge/Code-C++-6294CA.svg?style=flat&logo=c%2B%2B&logoColor=white">
   <img alt="Python" height="15" src="https://img.shields.io/badge/Code-Python-357AE7?style=flat&logo=python&logoColor=white">
-</div><br/>
-<!--Frameworks e Bibliotecas-->
-<div style="display: inline_block">
-  <img alt="NPM" height="15" src="https://img.shields.io/badge/Package Manager-NPM-CB2D2C?style=flat&logo=npm&logoColor=white">
 </div><br/>
 
 <!--Banco de Dados-->
