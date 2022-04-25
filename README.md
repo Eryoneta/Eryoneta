@@ -61,14 +61,14 @@
   <img alt="HTML5" height="25" src="https://img.shields.io/badge/Language-HTML5-E86329?style=flat&logo=html5&logoColor=white">
   <img alt="CSS3" height="25" src="https://img.shields.io/badge/Language-CSS3-2090EA?style=flat&logo=css3&logoColor=white">
   <img alt="JS" height="30" src="https://img.shields.io/badge/Code-JavaScript-EED71D?style=flat&logo=javascript&logoColor=white">
-  <img alt="TS" height="20" src="https://img.shields.io/badge/Code-TypeScript-0076C5?style=flat&logo=typescript&logoColor=white">
+  <img alt="TS" height="25" src="https://img.shields.io/badge/Code-TypeScript-0076C5?style=flat&logo=typescript&logoColor=white">
   <img alt="PHP" height="15" src="https://img.shields.io/badge/Code-PHP-7377AC?style=flat&logo=php&logoColor=white">
 </div><br/>
 <!--Frameworks e Bibliotecas-->
 <div style="display: inline_block">
   <img alt="Vue.js" height="15" src="https://img.shields.io/badge/Framework-Vue.js-7DC080?style=flat&logo=vuedotjs&logoColor=white">
   <img alt="React" height="15" src="https://img.shields.io/badge/Library-React-40B4D4?style=flat&logo=react&logoColor=white">
-  <img alt="Angular" height="15" src="https://img.shields.io/badge/Framework-Angular-DA3035?style=flat&logo=angular&logoColor=white">
+  <img alt="Angular" height="20" src="https://img.shields.io/badge/Framework-Angular-DA3035?style=flat&logo=angular&logoColor=white">
 </div><br/>
 
 <h3>Office</h4>
