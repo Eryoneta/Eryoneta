@@ -30,15 +30,15 @@
 </div><br/>
 <!--IDEs-->
 <div style="display: inline_block">
+  <img alt="VSCode" height="30" src="https://img.shields.io/badge/Editor-VS%20Code-0076C5?style=flat&logo=visual-studio-code&logoColor=white">
+  <img alt="Visual%20Studio" height="20" src="https://img.shields.io/badge/Editor-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white">
   <img alt="Eclipse" height="35" src="https://img.shields.io/badge/Editor-Eclipse-2C1F53?style=flat&logo=eclipse&logoColor=white">
-  <img alt="VSCode" height="25" src="https://img.shields.io/badge/Editor-VS%20Code-0076C5?style=flat&logo=visual-studio-code&logoColor=white">
   <img alt="Android Studio" height="20" src="https://img.shields.io/badge/Editor-Android%20Studio-7EB149?style=flat&logo=android-studio&logoColor=white">
   <img alt="IntelliJ%20IDEA" height="15" src="https://img.shields.io/badge/Editor-IntelliJ%20IDEA-E11D60?style=flat&logo=intellij-idea&logoColor=white">
-  <img alt="Visual%20Studio" height="15" src="https://img.shields.io/badge/Editor-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white">
 </div><br/>
 <!--Auxiliares-->
 <div style="display: inline_block">
-  <img alt="Git" height="25" src="https://img.shields.io/badge/Version%20Control-Git-D64A34?style=flat&logo=git&logoColor=white">
+  <img alt="Git" height="30" src="https://img.shields.io/badge/Version%20Control-Git-D64A34?style=flat&logo=git&logoColor=white">
   <img alt="NPM" height="20" src="https://img.shields.io/badge/Package Manager-NPM-CB2D2C?style=flat&logo=npm&logoColor=white">
 </div><br/>
 
@@ -48,11 +48,11 @@
   <img alt="Java" height="35" src="https://img.shields.io/badge/Code-Java-EF921C?style=flat&logo=java&logoColor=white">
   <img alt="C++" height="20" src="https://img.shields.io/badge/Code-C++-6294CA?style=flat&logo=c%2B%2B&logoColor=white">
   <img alt="Python" height="15" src="https://img.shields.io/badge/Code-Python-357AE7?style=flat&logo=python&logoColor=white">
-  <img alt="C#" height="15" src="https://img.shields.io/badge/Code-C%23-954D91?style=flat&logo=c-sharp&logoColor=white">
+  <img alt="C#" height="20" src="https://img.shields.io/badge/Code-C%23-954D91?style=flat&logo=c-sharp&logoColor=white">
 </div><br/>
 <!--Frameworks-->
 <div style="display: inline_block">
-  <img alt=".NET" height="15" src="https://img.shields.io/badge/Framework-.NET-5C2D91?style=flat&logo=.net&logoColor=white">
+  <img alt=".NET" height="20" src="https://img.shields.io/badge/Framework-.NET-5C2D91?style=flat&logo=.net&logoColor=white">
 </div><br/>
 
 <!--Banco de Dados-->
@@ -70,7 +70,7 @@
 <!--Code-->
 <div style="display: inline_block">
   <img alt="JS" height="30" src="https://img.shields.io/badge/Code-JavaScript-EED71D?style=flat&logo=javascript&logoColor=white">
-  <img alt="TS" height="25" src="https://img.shields.io/badge/Code-TypeScript-0076C5?style=flat&logo=typescript&logoColor=white">
+  <img alt="TS" height="30" src="https://img.shields.io/badge/Code-TypeScript-0076C5?style=flat&logo=typescript&logoColor=white">
   <img alt="PHP" height="15" src="https://img.shields.io/badge/Code-PHP-7377AC?style=flat&logo=php&logoColor=white">
 </div><br/>
 <!--Frameworks-->
@@ -84,16 +84,6 @@
 <div style="display: inline_block">
   <img alt="Bootstrap" height="15" src="https://img.shields.io/badge/Library-Bootstrap-6E11F3?style=flat&logo=bootstrap&logoColor=white">
   <img alt="RxJS" height="20" src="https://img.shields.io/badge/Library-rxjs-B7178C?style=flat&logo=reactivex&logoColor=white">
-</div><br/>
-
-<h3>Office</h4>
-<!--Microsoft-->
-<div style="display: inline_block">
-  <img alt="Word" height="25" src="https://img.shields.io/badge/Office-Word-028DD2?style=flat&logo=microsoft-word&logoColor=white">
-  <img alt="Excel" height="20" src="https://img.shields.io/badge/Office-Excel-28BB7B?style=flat&logo=microsoft-excel&logoColor=white">
-  <img alt="Access" height="15" src="https://img.shields.io/badge/Office-Access-B31319?style=flat&logo=microsoft-access&logoColor=white">
-  <img alt="Power Point" height="20" src="https://img.shields.io/badge/Office-Power%20Point-CD4425?style=flat&logo=microsoft-powerpoint&logoColor=white">
-  <img alt="Visio" height="20" src="https://img.shields.io/badge/Office-Visio-345097?style=flat&logo=microsoft-visio&logoColor=white">
 </div><br/>
 
 <h3>Platform</h4>
