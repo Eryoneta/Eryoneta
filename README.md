@@ -48,7 +48,8 @@
 <h3>Backend</h4>
 <!--Linguagens-->
 <div style="display: inline_block">
-	<img alt="Java" height="35" src="https://img.shields.io/badge/Code-Java-EF921C?style=flat&logo=java&logoColor=white">
+	<img alt="Java" height="35" src="https://img.shields.io/badge/Code-Java-EF921C?style=flat&logo=openjdk&logoColor=white">
+	<img alt="PowerShell" height="25" src="https://img.shields.io/badge/Code-PowerShell-2CA5E0?style=flat&logo=powershell&logoColor=white">
 	<img alt="C++" height="20" src="https://img.shields.io/badge/Code-C++-6294CA?style=flat&logo=c%2B%2B&logoColor=white">
 	<img alt="Python" height="15" src="https://img.shields.io/badge/Code-Python-357AE7?style=flat&logo=python&logoColor=white">
 	<img alt="C#" height="20" src="https://img.shields.io/badge/Code-C%23-954D91?style=flat&logo=c-sharp&logoColor=white">
