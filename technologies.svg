@@ -1,0 +1,133 @@
+<svg fill="none" viewBox="0 0 1200 1200" width="1200" height="1200" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.zone h3 {
+					width: fit-content;
+					padding: 5px 20px 5px 20px;
+					border-radius: 5px;
+					background-image: linear-gradient(#5E5E5E, #4E4E4E);
+					text-shadow: 0px 2px 2px black;
+					color: white;
+				}
+				.zone img {
+					border-radius: 5px;
+				}
+				.tools img, .tools h3 {
+					box-shadow: -10px 0px 0px #FFD700;
+				}
+				.backend img, .backend h3 {
+					box-shadow: -10px 0px 0px #1E90FF;
+				}
+				.frontend img, .frontend h3 {
+					box-shadow: -10px 0px 0px #B22222;
+				}
+				.platform img, .platform h3 {
+					box-shadow: -10px 0px 0px #228B22;
+				}
+				.theme {
+					display: flex;
+					flex-direction: row;
+					justify-content: space-evenly;
+					align-items: center;
+					flex-wrap: wrap;
+					gap: 20px 20px;
+				}
+			</style>
+
+			<!--Nível de conhecimento: De 15 até 40-->
+			<div class="tools zone">
+				<h3>Tools</h3>
+				<!--Sistemas Operacionais-->
+				<div class="theme">
+					<image alt="Windows" href="https://img.shields.io/badge/Windows-Operacional%20Sistem-0078D6?style=flat&amp;logo=windows&amp;logoColor=white"/>
+					<image alt="NixOS" href="https://img.shields.io/badge/NixOS-Operacional%20Sistem-5277C3?style=flat&amp;logo=nixos&amp;logoColor=white"/>
+					<image alt="Android" href="https://img.shields.io/badge/Android-Operacional%20Sistem-3DDC84?style=flat&amp;logo=android&amp;logoColor=white"/>
+				</div>
+				<br/>
+				<!--IDEs-->
+				<div class="theme">
+					<image alt="VSCode" href="https://img.shields.io/badge/VS%20Code-Code%20Editor-0076C5?style=flat&amp;logo=visual-studio-code&amp;logoColor=white"/>
+					<image alt="Eclipse" href="https://img.shields.io/badge/Eclipse-Code%20Editor-2C1F53?style=flat&amp;logo=eclipse&amp;logoColor=white"/>
+					<image alt="Visual%20Studio" href="https://img.shields.io/badge/Visual%20Studio-Code%20Editor-5C2D91?style=flat&amp;logo=visual-studio&amp;logoColor=white"/>
+					<image alt="Android Studio" href="https://img.shields.io/badge/Android%20Studio-Code%20Editor-7EB149?style=flat&amp;logo=android-studio&amp;logoColor=white"/>
+					<image alt="IntelliJ%20IDEA" href="https://img.shields.io/badge/IntelliJ%20IDEA-Code%20Editor-E11D60?style=flat&amp;logo=intellij-idea&amp;logoColor=white"/>
+				</div>
+				<br/>
+				<!--Auxiliares-->
+				<div class="theme">
+					<image alt="Git" href="https://img.shields.io/badge/Git-Version%20Control-D64A34?style=flat&amp;logo=git&amp;logoColor=white"/>
+					<image alt="NPM" href="https://img.shields.io/badge/NPM-Package%20Manager-CB2D2C?style=flat&amp;logo=npm&amp;logoColor=white"/>
+				</div>
+				<br/>
+			</div>
+
+			<div class="backend zone">
+				<h3>Backend</h3>
+				<!--Linguagens-->
+				<div class="theme">
+					<image alt="Java" href="https://img.shields.io/badge/Java-Code-EF921C?style=flat&amp;logo=openjdk&amp;logoColor=white"/>
+					<image alt="PowerShell" href="https://img.shields.io/badge/PowerShell-Code-2CA5E0?style=flat&amp;logo=powershell&amp;logoColor=white"/>
+					<image alt="Nix" href="https://img.shields.io/badge/Nix-Code-5277C3?style=flat&amp;logo=nixos&amp;logoColor=white"/>
+					<image alt="C++" href="https://img.shields.io/badge/C++-Code-6294CA?style=flat&amp;logo=c%2B%2B&amp;logoColor=white"/>
+					<image alt="Python" href="https://img.shields.io/badge/Python-Code-357AE7?style=flat&amp;logo=python&amp;logoColor=white"/>
+					<image alt="C#" href="https://img.shields.io/badge/C%23-Code-954D91?style=flat&amp;logo=c-sharp&amp;logoColor=white"/>
+				</div>
+				<br/>
+				<!--Frameworks-->
+				<div class="theme">
+					<image alt=".NET" href="https://img.shields.io/badge/.NET-Framework-5C2D91?style=flat&amp;logo=.net&amp;logoColor=white"/>
+				</div>
+				<br/>
+				<!--Banco de Dados-->
+				<div class="theme">
+					<image alt="MySQL" href="https://img.shields.io/badge/MySQL-Database-0B6279?style=flat&amp;logo=mysql&amp;logoColor=white"/>
+					<image alt="SQL Server" href="https://img.shields.io/badge/Microsoft%20SQL%20Server-Database-9A1C16?style=flat&amp;logo=microsoft%20sql%20server&amp;logoColor=white"/>
+				</div>
+				<br/>
+			</div>
+
+			<div class="frontend zone">
+				<h3>Frontend</h3>
+				<!--Linguagens-->
+				<div class="theme">
+					<image alt="HTML5" href="https://img.shields.io/badge/HTML5-Language-E86329?style=flat&amp;logo=html5&amp;logoColor=white"/>
+					<image alt="CSS3" href="https://img.shields.io/badge/CSS3-Language-2090EA?style=flat&amp;logo=css3&amp;logoColor=white"/>
+				</div>
+				<br/>
+				<!--Code-->
+				<div class="theme">
+					<image alt="JS" href="https://img.shields.io/badge/JavaScript-Code-EED71D?style=flat&amp;logo=javascript&amp;logoColor=white"/>
+					<image alt="TS" href="https://img.shields.io/badge/TypeScript-Code-0076C5?style=flat&amp;logo=typescript&amp;logoColor=white"/>
+					<image alt="PHP" href="https://img.shields.io/badge/PHP-Code-7377AC?style=flat&amp;logo=php&amp;logoColor=white"/>
+				</div>
+				<br/>
+				<!--Frameworks-->
+				<div class="theme">
+					<image alt="Angular" href="https://img.shields.io/badge/Angular-Framework-DA3035?style=flat&amp;logo=angular&amp;logoColor=white"/>
+					<image alt="Vue.js" href="https://img.shields.io/badge/Vue.js-Framework-7DC080?style=flat&amp;logo=vuedotjs&amp;logoColor=white"/>
+					<image alt="React" href="https://img.shields.io/badge/React-Framework-40B4D4?style=flat&amp;logo=react&amp;logoColor=white"/>
+					<image alt="Nx" href="https://img.shields.io/badge/Nx-Framework-143055?style=flat&amp;logo=nx&amp;logoColor=white"/>
+				</div>
+				<br/>
+				<!--Bibliotecas-->
+				<div class="theme">
+					<image alt="RxJS" href="https://img.shields.io/badge/rxjs-Library-B7178C?style=flat&amp;logo=reactivex&amp;logoColor=white"/>
+					<image alt="Bootstrap" href="https://img.shields.io/badge/Bootstrap-Library-6E11F3?style=flat&amp;logo=bootstrap&amp;logoColor=white"/>
+				</div>
+				<br/>
+			</div>
+
+			<div class="platform zone">
+				<h3>Platform</h3>
+				<!--Plataformas-->
+				<div class="theme">
+					<image alt="GitHub" href="https://img.shields.io/badge/GitHub-Platform-8A30A6?style=flat&amp;logo=github&amp;logoColor=white"/>
+					<image alt="Arduino" href="https://img.shields.io/badge/Arduino-Platform-009196?style=flat&amp;logo=arduino&amp;logoColor=white"/>
+				</div>
+				<br/>
+			</div>
+
+		</div>
+	</foreignObject>
+</svg>
