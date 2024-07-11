@@ -11,19 +11,17 @@
 
 <!--Status-->
 <h2>GitHub Stats</h2>
-<table cellpadding="0" width="100%">
-	<tr width="100%">
-		<td align="center" width="100%">
-			<img width="60%" src="https://github-readme-stats.vercel.app/api?username=Eryoneta&show_icons=true&include_all_commits=true&count_private=true&title_color=9E50FF&icon_color=9E50FF&border_color=ECDBFE&text_color=404040&bg_color=60,FFFFFF,F2E8FC&hide=contribs"/>
-			<img width="34.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eryoneta&layout=compact&langs_count=8&title_color=9E50FF&border_color=ECDBFE&text_color=404040&bg_color=60,FFFFFF,F2E8FC" />
-		</td>
-	</tr>
-</table>
+<div align="left" width="100%">
+	<img width="63%" src="https://github-readme-stats.vercel.app/api?username=Eryoneta&show_icons=true&include_all_commits=true&count_private=true&title_color=9E50FF&icon_color=9E50FF&border_color=ECDBFE&text_color=404040&bg_color=60,FFFFFF,F2E8FC&hide=contribs"/>
+	<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eryoneta&layout=compact&langs_count=8&title_color=9E50FF&border_color=ECDBFE&text_color=404040&bg_color=60,FFFFFF,F2E8FC"/>
+</div>
 <br/>
 
 <!--Conhecimentos-->
-<h2>Technologies Used</h2>
-<img src="technologies.svg" width="100%" alt="Technologies Used" />
+<div width="100%">
+	<h2>Technologies Used</h2>
+	<img src="technologies.svg" width="100%" alt="Technologies Used" />
+</div>
 <br/>
 
 <div>
