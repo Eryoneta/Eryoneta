@@ -16,14 +16,15 @@
 </div>
 <br/>
 
+<!--Links-->
 <div align="right">
 	<a href = "mailto:eryoneta@gmail.com">
 		<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 	</a>
-	<a src="https://www.linkedin.com/in/eryoneta/" target="_blank">
+	<a href="https://www.linkedin.com/in/eryoneta/" target="_blank">
 		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 	</a>
-	<a src="https://github.com/Eryoneta/" target="_blank">
+	<a href="https://github.com/Eryoneta/" target="_blank">
 		<img alt="GitHub" src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white">
 	</a>
 </div>
