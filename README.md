@@ -22,12 +22,12 @@
 <!--Destaques-->
 <h3>Highlights</h3>
 <ul>
-	<li>My <a href="https://github.com/Eryoneta/nixos-config">NixOS configuration</a> lets me configure not only the operational sistem, but also all the programs installed! Cool stuff.</li>
-	<li>I use <a href="https://github.com/Eryoneta/MindSort">MindSort</a> as my personal, daily note-taking book! Currently, I plan on refactoring it.</li>
-	<li>I use <a href="https://github.com/Eryoneta/Roboversion">Roboversion</a> for my weekly backups. It's simple and fast.</li>
-	<li><a href="https://github.com/Eryoneta/VirtualTable">VirtualTable</a> is a cool idea, and it actually works really well! ...I just need to find a use for it, as it doesn't beat the good-old-mouse.</li>
-	<li>After <a href="https://github.com/Eryoneta/MindSort">MindSort</a> is mature enough, <a href="https://github.com/Eryoneta/PicVector">PicVector</a> will be the next step.</li>
-	<li>After <a href="https://github.com/Eryoneta/PicVector">PicVector</a> is complete, <a href="https://github.com/Eryoneta/YoToons">YoToons</a> shall be the final step.</li>
+	<li>✨ My <a href="https://github.com/Eryoneta/nixos-config">NixOS configuration</a> lets me configure not only the operational sistem, but also all the programs installed! Cool stuff.</li>
+	<li>📝 I use <a href="https://github.com/Eryoneta/MindSort">MindSort</a> as my personal, daily note-taking book! Currently, I plan on refactoring it.</li>
+	<li>💾 I use <a href="https://github.com/Eryoneta/Roboversion">Roboversion</a> for my weekly backups. It's simple and fast.</li>
+	<li>🤔 <a href="https://github.com/Eryoneta/VirtualTable">VirtualTable</a> is a cool idea, and it actually works surprisingly well! ...I just need to find a use for it, as it doesn't really beat the good-old-mouse.</li>
+	<li>🎯 Once <a href="https://github.com/Eryoneta/MindSort">MindSort</a> is mature enough, <a href="https://github.com/Eryoneta/PicVector">PicVector</a> will be the next step.</li>
+	<li>🎯 After <a href="https://github.com/Eryoneta/PicVector">PicVector</a> is complete, <a href="https://github.com/Eryoneta/YoToons">YoToons</a> shall be the final step.</li>
 </ul>
 <br/>
 
