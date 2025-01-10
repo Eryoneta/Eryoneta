@@ -1,7 +1,7 @@
 <!--Título-->
 <div align="left">
-	<img width="15%" alt="YoProfile" src="Profile.png"/>
-	<img width="80%" alt="YoTitle" src="titulo.svg"/>
+	<img width="15%" alt="YoProfile" src="./resources/Profile.png"/>
+	<img width="80%" alt="YoTitle" src="./resources/titulo.svg"/>
 </div>
 
 <!--Introdução-->
