@@ -8,7 +8,7 @@
 <h1>Yo there!</h1>
 <p>I'm a self taught developer who loves to immerse into personal projects.</p>
 <ul>
-	<li>Currently, investing into a (Linux) <a href="https://github.com/Eryoneta/nixos-config">NixOS configuration</a>. Windows 10 EOL is near!</li>
+	<li>Currently, investing into a <a href="https://github.com/Eryoneta/nixos-config">NixOS configuration</a> (Linux). Windows 10 EOL is near!</li>
 </ul>
 <br/>
 
@@ -19,12 +19,29 @@
 </div>
 <br/>
 
+<!--Skills-->
+<div align="center" width="100%">
+	<img height="35" alt="Java" src="https://skillicons.dev/icons?i=java"/>
+	<img height="35" alt="PowerShell" src="https://skillicons.dev/icons?i=powershell"/>
+	<img height="35" alt="Bash" src="https://skillicons.dev/icons?i=bash"/>
+	<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+	<img height="35" alt="Nix" src="https://skillicons.dev/icons?i=nix"/>
+	<img height="35" alt="Git" src="https://skillicons.dev/icons?i=git"/>
+	<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+	<img height="35" alt="HTML" src="https://skillicons.dev/icons?i=html"/>
+	<img height="35" alt="CSS" src="https://skillicons.dev/icons?i=css"/>
+	<img height="35" alt="JavaScript" src="https://skillicons.dev/icons?i=js"/>
+	<img height="35" alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/>
+	<img height="35" alt="Angular" src="https://skillicons.dev/icons?i=angular"/>
+</div>
+<br/>
+
 <!--Destaques-->
 <h3>Highlights</h3>
 <ul>
 	<li>✨ My <a href="https://github.com/Eryoneta/nixos-config">NixOS configuration</a> lets me configure not only the operational sistem, but also all the programs installed! Cool stuff.</li>
 	<li>📝 I use <a href="https://github.com/Eryoneta/MindSort">MindSort</a> as my personal, daily note-taking book! Currently, I plan on refactoring it.</li>
-	<li>💾 <s>I use <a href="https://github.com/Eryoneta/Roboversion">Roboversion</a> for my weekly backups. It's simple and fast.</s> Welp, in Linux land there is no <i>Robocopy</i>, so I'm now using <i>rsnapshot</i>, which is very similar in concept.</li>
+	<li>💾 <s>I use <a href="https://github.com/Eryoneta/Roboversion">Roboversion</a> for my weekly backups. It's simple and fast.</s> Welp, in Linux-land there is no <i>Robocopy</i>, so I'm now using <i>rsnapshot</i>, which is very similar in concept.</li>
 	<li>🤔 <a href="https://github.com/Eryoneta/VirtualTable">VirtualTable</a> is a cool idea, and it actually works surprisingly well! ...I just need to find a use for it, as it doesn't really beat the good-old-mouse.</li>
 	<li>🎯 Once <a href="https://github.com/Eryoneta/MindSort">MindSort</a> is mature enough, <a href="https://github.com/Eryoneta/PicVector">PicVector</a> will be the next step.</li>
 	<li>🎯 After <a href="https://github.com/Eryoneta/PicVector">PicVector</a> is complete, <a href="https://github.com/Eryoneta/YoToons">YoToons</a> shall be the final step.</li>
