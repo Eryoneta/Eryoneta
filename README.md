@@ -19,6 +19,23 @@
 </div>
 <br/>
 
+<!--Skills-->
+<div align="center" width="100%">
+	<img height="35" alt="Java" src="https://skillicons.dev/icons?i=java"/>
+	<img height="35" alt="PowerShell" src="https://skillicons.dev/icons?i=powershell"/>
+	<img height="35" alt="Bash" src="https://skillicons.dev/icons?i=bash"/>
+	<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+	<img height="35" alt="Nix" src="https://skillicons.dev/icons?i=nix"/>
+	<img height="35" alt="Git" src="https://skillicons.dev/icons?i=git"/>
+	<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+	<img height="35" alt="HTML" src="https://skillicons.dev/icons?i=html"/>
+	<img height="35" alt="CSS" src="https://skillicons.dev/icons?i=css"/>
+	<img height="35" alt="JavaScript" src="https://skillicons.dev/icons?i=js"/>
+	<img height="35" alt="TypeScript" src="https://skillicons.dev/icons?i=ts"/>
+	<img height="35" alt="Angular" src="https://skillicons.dev/icons?i=angular"/>
+</div>
+<br/>
+
 <!--Destaques-->
 <h3>Highlights</h3>
 <ul>
