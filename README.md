@@ -14,16 +14,8 @@
 
 <!--Status-->
 <div align="center" width="100%">
-	<picture width="63%">
-		<source srcset="https://github-readme-stats.vercel.app/api?username=Eryoneta&show_icons=true&include_all_commits=true&title_color=9E50FF&icon_color=9E50FF&border_color=ECDBFE&text_color=E2E2E2&bg_color=60,2B2B2B,533C7A&hide=contribs" media="(prefers-color-scheme: dark)"/>
-		<source srcset="https://github-readme-stats.vercel.app/api?username=Eryoneta&show_icons=true&include_all_commits=true&title_color=9E50FF&icon_color=9E50FF&border_color=ECDBFE&text_color=404040&bg_color=60,FFFFFF,F2E8FC&hide=contribs" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-		<img src="https://github-readme-stats.vercel.app/api?username=Eryoneta&show_icons=true&include_all_commits=true&title_color=9E50FF&icon_color=9E50FF&border_color=ECDBFE&text_color=404040&bg_color=60,FFFFFF,F2E8FC&hide=contribs" />
-	</picture>
-	<picture width="36%">
-		<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Eryoneta&layout=compact&langs_count=8&title_color=9E50FF&border_color=ECDBFE&text_color=E2E2E2&bg_color=60,2B2B2B,533C7A" media="(prefers-color-scheme: dark)"/>
-		<source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Eryoneta&layout=compact&langs_count=8&title_color=9E50FF&border_color=ECDBFE&text_color=404040&bg_color=60,FFFFFF,F2E8FC" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eryoneta&layout=compact&langs_count=8&title_color=9E50FF&border_color=ECDBFE&text_color=404040&bg_color=60,FFFFFF,F2E8FC" />
-	</picture>
+	<img width="63%" src="https://github-readme-stats.vercel.app/api?username=Eryoneta&show_icons=true&include_all_commits=true&title_color=9E50FF&icon_color=9E50FF&border_color=9E50FF26&bg_color=60,FFFFFF00,9E50FF26&hide=contribs"/>
+ 	<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eryoneta&layout=compact&langs_count=8&title_color=9E50FF&border_color=9E50FF26&bg_color=60,FFFFFF00,9E50FF26"/>
 </div>
 <br/>
 
