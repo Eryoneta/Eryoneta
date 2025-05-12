@@ -14,8 +14,8 @@
 
 <!--Status-->
 <div align="center" width="100%">
-	<img width="63%" src="https://github-readme-stats.vercel.app/api?username=Eryoneta&show_icons=true&include_all_commits=true&title_color=9E50FF&icon_color=9E50FF&border_color=ECDBFE&text_color=404040&bg_color=60,FFFFFF,F2E8FC&hide=contribs"/>
-	<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eryoneta&layout=compact&langs_count=8&title_color=9E50FF&border_color=ECDBFE&text_color=404040&bg_color=60,FFFFFF,F2E8FC"/>
+	<img width="63%" src="https://github-readme-stats.vercel.app/api?username=Eryoneta&show_icons=true&include_all_commits=true&title_color=9E50FF&icon_color=9E50FF&border_color=9E50FF26&bg_color=60,FFFFFF00,9E50FF26&hide=contribs"/>
+ 	<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eryoneta&layout=compact&langs_count=8&title_color=9E50FF&border_color=9E50FF26&bg_color=60,FFFFFF00,9E50FF26"/>
 </div>
 <br/>
 
