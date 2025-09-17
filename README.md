@@ -7,9 +7,6 @@
 <!--Introdução-->
 <h1>Yo there!</h1>
 <p>I'm a self taught developer who loves to immerse into personal projects.</p>
-<ul>
-	<li>Currently, investing into a <a href="https://github.com/Eryoneta/nixos-config">NixOS configuration</a> (Linux). Windows 10 EOL is near!</li>
-</ul>
 <br/>
 
 <!--Status-->
