@@ -1,6 +1,6 @@
 <!--Título-->
 <div align="left">
-	<img width="15%" alt="YoProfile" src="./resources/Profile.png"/>
+	<!--<img width="15%" alt="YoProfile" src="./resources/Profile.png"/>-->
 	<img width="80%" alt="YoTitle" src="./resources/titulo.svg"/>
 </div>
 
